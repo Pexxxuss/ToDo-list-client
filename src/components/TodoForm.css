@@ -1,0 +1,9 @@
+input {
+  font-size: 30px;
+  color: chocolate;
+  width: 100%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid chocolate;
+  padding: 5px;
+}

@@ -1,0 +1,46 @@
+.task {
+  background-color: #34495e;
+  padding: 15px;
+  margin: 5px;
+  overflow-x: hidden;
+  border-radius: 5px;
+  width: 100%;
+  font-size: 25px;
+}
+.task span {
+  color: #fff;
+}
+.icon {
+  float: right;
+  margin-right: 20px;
+  cursor: pointer;
+  color: chocolate;
+}
+article {
+  display: grid;
+}
+.listed-task {
+  display: flex;
+  width: 100%;
+}
+.edit-todo {
+  width: 85%;
+  font-size: 16px;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #fff;
+}
+.icons-task {
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.material-icons {
+  font-size: 35px;
+  color: chocolate;
+}
+.material-icons:hover {
+  color: #fff;
+}
